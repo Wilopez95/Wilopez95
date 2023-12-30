@@ -4,18 +4,6 @@
 
 <p align="left"># Fullstack Engineer | Web and Mobile Application Developer<br><br>Hello! I'm Wilson López, a seasoned fullstack engineer with over 3 years of experience. Passionate about continuous learning and improvement, I excel in communication, leadership, and teamwork. My adaptability allows me to confidently tackle new challenges. Committed to delivering innovative and high-quality solutions in software development.</p>
 
-###
-<h2 align="center">Hi! I'm Wilson 🧑🏼‍💻</h2>
-
-###
-
-<p align="left"># Fullstack Engineer | Web and Mobile Application Developer<br><br>Hello! I'm Wilson López, a seasoned fullstack engineer with over 3 years of experience. Passionate about continuous learning and improvement, I excel in communication, leadership, and teamwork. My adaptability allows me to confidently tackle new challenges. Committed to delivering innovative and high-quality solutions in software development.</p>
-
-<h2 align="center">Hi! I'm Wilson 🧑🏼‍💻</h2>
-
-###
-
-<p align="left"># Fullstack Engineer | Web and Mobile Application Developer<br><br>Hello! I'm Wilson López, a seasoned fullstack engineer with over 3 years of experience. Passionate about continuous learning and improvement, I excel in communication, leadership, and teamwork. My adaptability allows me to confidently tackle new challenges. Committed to delivering innovative and high-quality solutions in software development.</p>
 
 ###
 
