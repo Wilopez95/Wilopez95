@@ -52,17 +52,6 @@ WhatsApp AI Agent
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Wilopez95&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilopez95&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
 <div align="center">
   <sub>Building things that matter · Costa Rica 🇨🇷</sub>
 </div>
