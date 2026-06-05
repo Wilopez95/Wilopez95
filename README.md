@@ -7,7 +7,7 @@
 ### Senior Fullstack Engineer · AI & Security-focused
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wilopez95-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilopez95)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-6366f1?style=flat&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio%20soon-6366f1?style=flat&logo=vercel&logoColor=white)](https://wilopez.dev/)
 [![Email](https://img.shields.io/badge/Email-wilopez95@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:wilopez95@gmail.com)
 
 </div>
