@@ -2,7 +2,6 @@
 
 <img width="1584" height="396" alt="linkedin-banner" src="https://github.com/user-attachments/assets/5ac02680-489c-4443-9191-bdaef51465a0" />
 
-# Wilson López
 ### Senior Fullstack Engineer · AI & Security-focused
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wilopez95-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilopez95)
