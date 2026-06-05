@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="1584" height="396" alt="linkedin-banner" src="https://github.com/user-attachments/assets/5ac02680-489c-4443-9191-bdaef51465a0" />
+
+
+<img width="1584" height="396" alt="linkedin-banner" src="https://github.com/user-attachments/assets/765a494d-d783-4c72-99f5-5e1ea348082d" />
 
 ### Senior Fullstack Engineer · AI & Security-focused
 
